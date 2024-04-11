@@ -10,7 +10,7 @@ This is a simple Bash script that implements a number guessing game.
 2. Execute the script in a Bash shell terminal.
 
 ```bash
-bash number_guessing.sh
+bash guessNumber.sh
 ```
 ## Author
 Written by: me
